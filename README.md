@@ -32,9 +32,11 @@ A RESTful API built with Spring Boot and MongoDB for managing todo items.
 1. Clone the repository:
 ```bash
 git clone <repository-url>
+```
+
 Here's a comprehensive README.md file for this Spring Boot Todo List API project:
 
-```markdown
+
 # Todo List REST API
 
 A RESTful API built with Spring Boot and MongoDB for managing todo items.
