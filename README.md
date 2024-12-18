@@ -177,7 +177,3 @@ This project is open-sourced software.
 
 A Postman collection is included in the repository at `src/main/resources/Postman Collections/TODO list app.postman_collection.json` for testing the API endpoints.
 ```
-
-This README provides a comprehensive overview of this project, including setup instructions, API documentation, and project structure. Feel free to modify any sections to better match this project's specific needs.This README provides a comprehensive overview of this project, including setup instructions, API documentation, and project structure. Feel free to modify any sections to better match this project's specific needs.
-
-Similar code found with 2 license types
